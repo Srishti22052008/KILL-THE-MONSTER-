@@ -17,7 +17,7 @@ var sound;
 function preload(){
     backgroundImage=loadImage("bg.png")
 sun=loadImage("sun.png")
-sound=loadSound("8d82b5_Street_Fighter_New_Challenger_Sound_Effect.mp3")
+//sound=loadSound("8d82b5_Street_Fighter_New_Challenger_Sound_Effect.mp3")
 }
 
 function setup(){
