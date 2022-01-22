@@ -1,2 +1,1 @@
-# KILL-THE-MONSTER-
-WHJ PROJECT
+# KillTheMonster
